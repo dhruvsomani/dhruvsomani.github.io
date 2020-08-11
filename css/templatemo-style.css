@@ -1,13 +1,5 @@
-/*
-
-Stimulus Template
-
-http://www.templatemo.com/tm-498-stimulus
-
-*/
-
 body {
-	background: #ffffff;
+    background: #ffffff;
     font-family: 'Source Sans Pro', sans-serif;
     font-style: normal;
     font-weight: 300;
@@ -21,7 +13,7 @@ html,body {
 
 
 /*---------------------------------------
-    Typorgraphy              
+    Typography              
 -----------------------------------------*/
 
 h1,h2,h3,h4,h5,h6 {
