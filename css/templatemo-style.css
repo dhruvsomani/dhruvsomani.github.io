@@ -289,7 +289,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .nav li a {
-    color: #666;
+    color: #999;
     font-size: 14px;
     font-weight: 400;
     letter-spacing: 1px;
@@ -310,7 +310,7 @@ a:hover, a:active, a:focus {
 
 .custom-navbar .nav li.active > a {
     background-color: transparent;
-    color: #E3AE57;
+    color: #000000;
 }
 
 .custom-navbar .navbar-toggle {
@@ -323,7 +323,7 @@ a:hover, a:active, a:focus {
 }
 
 .custom-navbar .navbar-toggle .icon-bar {
-    background: #E3AE57;
+    background: #000000;
     border-color: transparent;
 }
 
