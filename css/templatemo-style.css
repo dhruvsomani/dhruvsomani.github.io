@@ -181,7 +181,7 @@ footer {
 }
 
 .bg-orange {
-  background: #eb8f17;
+  background: #E9724C;
 }
 
 
@@ -194,6 +194,7 @@ html{
 }
 
 a {
+  font-family: 'Trebuchet MS';
   color: #E3AE57;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
