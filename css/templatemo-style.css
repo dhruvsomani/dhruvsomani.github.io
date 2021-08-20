@@ -602,7 +602,7 @@ a:hover, a:active, a:focus {
 }
 
 #contact .fa {
-  padding-right: 10px;
+  /*padding-right: 10px;*/
 }
 
 
@@ -631,14 +631,16 @@ footer {
 .social-icon li {
     display: inline-block;
     list-style: none;
+    padding-left: 8px;
+    padding-right: 8px;
 }
 
 .social-icon li a {
     border: 2px solid transparent;
-    color: #999;
+    color: #ffffff;
     border-radius: 100px;
     cursor: pointer;
-    font-size: 16px;
+    font-size: 20px;
     text-decoration: none;
     transition: all 0.4s ease-in-out;
     width: 50px;
@@ -647,14 +649,14 @@ footer {
     text-align: center;
     vertical-align: middle;
     position: relative;
-    margin: 22px 4px 10px 4px;
+    margin: auto;
 }
 
 .social-icon li a:hover {
-    background: #E3AE57;
+    background: #161616;
     border-color: #ffffff;
     color: #ffffff;
-    transform: scale(1.1);
+    transform: scale(1.5);
 }
 
 
